@@ -2,8 +2,8 @@
 
 This project covers:
 
-**1. Preprocessing of Image 
-2. Image to String Conversion**
+**1. Preprocessing of Image**
+**2. Image to String Conversion**
 
 ### Raw Sample Image
 
